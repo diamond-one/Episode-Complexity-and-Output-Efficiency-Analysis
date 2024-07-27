@@ -12,14 +12,29 @@ In this project, I analyzed the complexity and efficiency of the animation produ
 Quantifying an episode's complexity accurately was crucial to ensuring efficient resource allocation and timely production. However, without a standardized method, predicting the necessary time and resources for 'complex' episodes was challenging, often leading to scheduling overruns and increased costs.
 
 **Solution:**  
-To address this, we developed a "Complexity Calculator" tool. This tool was designed to standardize complexity assessments by considering various elements that contribute to the complexity of each shot. It calculates an aggregate complexity score for all shots, providing a comprehensive complexity rating for each episode. The key factors included in the complexity assessment were:
+To address this challenge, we developed a "Complexity Calculator" tool. This tool standardizes complexity assessments by considering various elements that contribute to the complexity of each shot. It calculates an aggregate complexity score for all shots, providing a comprehensive complexity rating for each episode. The key factors included in the complexity assessment are:
+
 - The number of characters in each shot.
-- Whether characters interacted with props or each other.
-- The presence of gymnastic movements or complex actions.
+- Character interaction.
+- Prop handling.
+- Gymnastic movements or complex actions.
 - Camera framing, categorized as long, medium, or close-up shots.
-- The introduction of new characters, which typically resulted in more notes and revisions.
-- The overall length of the episode and individual shots, as longer sequences generally require more time and coordination.
-- Additional factors such as lighting complexity, background elements, and scene transitions.
+- Unusual camera moves.
+- The introduction of new characters, which typically result in more notes and revisions.
+- Dialogue scenes.
+- Walking and running sequences.
+- Unique locomotion, including quadroped movement.
+- Background interaction.
+- Complex lighting setups.
+- Simulation elements.
+- Unique outfits for characters.
+- Transition shots and cuts on action.
+
+These factors ensure a detailed and standardized approach to assessing the complexity of episodes, helping in accurate scheduling and resource planning.
+
+  ![image](https://github.com/user-attachments/assets/48a484f3-17b2-4d0d-abf3-40611f63e80d)
+  
+*Complexity Calculator*
 
 The Complexity Calculator was made accessible to producers, allowing them to use it during the early stages of production. By identifying and potentially reducing complexity early on, production teams could streamline processes and minimize potential delays, leading to more manageable and efficient production schedules.
 
