@@ -34,8 +34,6 @@ These factors ensure a detailed and standardized approach to assessing the compl
 
 ![image](https://github.com/user-attachments/assets/a68c9581-5b33-4e07-9d6e-64dfa7bc4aff)
 
-  
-*Complexity Calculator*
 
 The Complexity Calculator was made accessible to producers, allowing them to use it during the early stages of production. By identifying and potentially reducing complexity early on, production teams could streamline processes and minimize potential delays, leading to more manageable and efficient production schedules.
 
@@ -57,4 +55,4 @@ While there was not always a direct correlation between complexity ratings and t
 ## Conclusion 
 The scaling system provided a foundation for more precise scheduling and resource planning, even in the absence of a direct correlation between complexity and production time.
 
-Additionally, the Complexity Calculator allowed producers to assess and potentially reduce the complexity of episodes early in the production process, thereby minimizing the number of highly complex episodes that advanced to full production.
+Additionally, the Complexity Calculator enabled producers to evaluate and potentially reduce the complexity of episodes early in the production process. This proactive assessment helped minimize the number of highly complex episodes that progressed to full production.
