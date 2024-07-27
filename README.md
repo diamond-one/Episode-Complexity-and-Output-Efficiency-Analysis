@@ -12,7 +12,7 @@ In this project, I analyzed the complexity and efficiency of the animation produ
 Quantifying an episode's complexity accurately was crucial to ensuring efficient resource allocation and timely production. However, without a standardized method, predicting the necessary time and resources for 'complex' episodes was challenging, often leading to scheduling overruns and increased costs.
 
 **Solution:**  
-To address this challenge, we developed a "Complexity Calculator" tool. This tool standardizes complexity assessments by considering various elements that contribute to the complexity of each shot. It calculates an aggregate complexity score for all shots, providing a comprehensive complexity rating for each episode. The key factors included in the complexity assessment are:
+To tackle this challenge, we developed a "Complexity Calculator" tool. This tool standardizes the assessment of shot complexity by evaluating various contributing factors. It calculates an overall complexity score for each episode by using weighted averages for each specific complexity element. The key factors considered in the complexity assessment included:
 
 - The number of characters in each shot.
 - Character interaction.
@@ -32,7 +32,8 @@ To address this challenge, we developed a "Complexity Calculator" tool. This too
 
 These factors ensure a detailed and standardized approach to assessing the complexity of episodes, helping in accurate scheduling and resource planning.
 
-  ![image](https://github.com/user-attachments/assets/48a484f3-17b2-4d0d-abf3-40611f63e80d)
+![image](https://github.com/user-attachments/assets/a68c9581-5b33-4e07-9d6e-64dfa7bc4aff)
+
   
 *Complexity Calculator*
 
