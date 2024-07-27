@@ -45,7 +45,7 @@ The Complexity Calculator was made accessible to producers, allowing them to use
 
 
 **Outcome:**  
-While there was no direct correlation between complexity ratings and the actual time taken for the Blocking and Spline phases, the following scaling was established to provide a baseline for expected additional time based on complexity:
+While there was not always a direct correlation between complexity ratings and the actual time taken for the Blocking and Spline phases, the following scaling was established to provide a baseline for expected additional time based on complexity:
 - Complexity Rating 5: 0% additional time
 - Complexity Rating 6: 10% additional time
 - Complexity Rating 7: 20% additional time
@@ -55,4 +55,6 @@ While there was no direct correlation between complexity ratings and the actual 
 
   
 ## Conclusion 
-The scaling system provided a foundation for more precise scheduling and resource planning, even in the absence of a direct correlation between complexity and production time. Additionally, the Complexity Calculator allowed producers to assess and potentially reduce the complexity of episodes early in the production process, thereby minimizing the number of highly complex episodes that advanced to full production.
+The scaling system provided a foundation for more precise scheduling and resource planning, even in the absence of a direct correlation between complexity and production time.
+
+Additionally, the Complexity Calculator allowed producers to assess and potentially reduce the complexity of episodes early in the production process, thereby minimizing the number of highly complex episodes that advanced to full production.
