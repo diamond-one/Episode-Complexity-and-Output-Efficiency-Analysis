@@ -1,5 +1,5 @@
 # Episode Complexity and Output Efficiency Analysis
-
+[Back to Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
 ## Overview
 
 In this project, I analyzed the complexity and efficiency of the animation production pipeline for episodes of the animated series. The goal was to understand how the complexity of each episode affected production times in the Blocking and Spline phases, and to identify opportunities for optimizing workflows and resource allocation.
@@ -53,6 +53,10 @@ While there was not always a direct correlation between complexity ratings and t
 
   
 ## Conclusion 
-The scaling system provided a foundation for more precise scheduling and resource planning, even in the absence of a direct correlation between complexity and production time.
+The Complexity Calculator and the established scaling system have proven to be invaluable tools in optimizing the animation production pipeline. By providing a quantitative measure of episode complexity, the tool empowers producers to make data-driven decisions that enhance scheduling accuracy and resource allocation. This proactive approach not only streamlines workflows but also minimizes the risk of costly overruns associated with unexpectedly complex episodes.
 
-Additionally, the Complexity Calculator enabled producers to evaluate and potentially reduce the complexity of episodes early in the production process. This proactive assessment helped minimize the number of highly complex episodes that progressed to full production.
+A key advantage of the Complexity Calculator is its ability to provide producers with a clear benchmark for episode complexity. This clarity is crucial in negotiations with clients, allowing producers to set realistic expectations and push back when proposed episodes exceed feasible production parameters. Moreover, the tool's detailed breakdown of complexity factors enables producers to pinpoint specific elements that can be adjusted, ensuring that projects stay within scope and budget while maintaining high-quality standards.
+
+Looking ahead, the insights gained from implementing the Complexity Calculator will guide continuous improvements in production efficiency and quality. The tool's methodology will be refined and expanded based on ongoing data analysis and industry feedback, ensuring it remains a critical asset in managing the complexities of animation production.
+
+[Back to Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
